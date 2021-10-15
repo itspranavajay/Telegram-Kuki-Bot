@@ -12,7 +12,7 @@
             "description": "Please Enter Bot Name",
             "required": true
         },
-        "ownwr": {
+        "owner": {
             "description": "Please Enter Bot Name",
             "required": true
         }
