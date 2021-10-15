@@ -1,0 +1,25 @@
+{
+    "name": "KukiChatBot",
+    "description": "Hello,I Am @kukichatbot Example ",
+    "logo": "https://telegra.ph/file/a54ed27b0dc3fc3e439fd.jpg",
+    "repository": "https://github.com/MoeZilla/telegram-kuki-bot",
+    "env": {
+        "token": {
+            "description": "telegram bot token here",
+            "required": true
+        },
+        "name": {
+            "description": "Please Enter Bot Name",
+            "required": true
+        },
+        "ownwr": {
+            "description": "Please Enter Bot Name",
+            "required": true
+        }
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
