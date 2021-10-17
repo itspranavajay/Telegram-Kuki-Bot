@@ -17,7 +17,6 @@
   "homepage": "https://github.com/Moezilla/Telegram-Kuki-Bot#readme",
   "dependencies": {
     "slimbot": "^5.1.0",
-    "kuki-bot-api": "^0.0.4",
     "node-fetch": "^2.6.1"
   }
 }
