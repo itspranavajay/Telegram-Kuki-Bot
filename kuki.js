@@ -12,7 +12,7 @@ var text = message.text
   slimbot.sendMessage(message.chat.id, reply);
  })
 if (message.text.toLowerCase()=='/start'){
-        slimbot.sendMessage(message.chat.id, "I am kuki");
+        slimbot.sendMessage(message.chat.id, "I am noinoi");
     }
 });
 
